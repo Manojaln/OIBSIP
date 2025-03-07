@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module ATM_Interface {
-}
